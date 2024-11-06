@@ -30,7 +30,7 @@ In this phase of my analysis, i performed the following actions:
 - Blank Value Check: Verified the dataset for blank values
 - Data Type Conversion: Converted specified columns to text format for consistency
 - Data Standardization: Reformatted date columns to YYYY-MM-DD for uniformity
-- Duplicate Removal: Removed duplicate rows to ensure unique records. 41,213 duplicates were found and removed left with 33,787 unique values out of 75,000 records that were given.
+- Duplicate Removal: Removed duplicate rows to ensure unique records. 41,213 duplicates were found and removed left with 33,787 unique values out of 75,000 records that was given in the dataset. 
  
 ## Exploratory Data Analysis
   

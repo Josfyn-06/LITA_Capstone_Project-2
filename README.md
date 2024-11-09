@@ -99,7 +99,14 @@ In this phase of my analysis, i explored the dataset to meet goals such as:
     select count (*) as Cancelled_Subscriptions from Customer_Data
     where Canceled = 'true'
     ```
-    
+
+ ### Data Visualisation
+
+ ![Customer Data- Excel](https://github.com/user-attachments/assets/1a139fd9-c78a-4296-a9f2-78cafdbfa9b5)
+
+ ![Customer Data - Power BI](https://github.com/user-attachments/assets/d130b4f5-f0cc-4226-a3e7-58f882092909)
+
+
   
   
   

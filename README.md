@@ -106,6 +106,8 @@ In this phase of my analysis, i explored the dataset to meet goals such as:
 
  ![Customer Data - Power BI](https://github.com/user-attachments/assets/d130b4f5-f0cc-4226-a3e7-58f882092909)
 
+ ### Insights
+
 
   
   
